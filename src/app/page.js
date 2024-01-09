@@ -1,5 +1,5 @@
 "use client"
-
+import { someFunction } from './ai-agent.js';
 
 import { useState } from 'react';
  
